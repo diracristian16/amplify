@@ -13,7 +13,7 @@ function Card({ id, title, imgUrl }) {
 export default function Index({ blogs }) {
   return (
     <div>
-      <h1>Hola Camilo</h1>
+      <h1>Hola Camilo PEÑA</h1>
       <ul>
         <li><Link href="/blog">Blog</Link></li>
       </ul>
